@@ -6,9 +6,10 @@ header{
 }
 
 .logo{
-	height: 10px;
+	height: 1px;
 	width: 150px;
 }
+
 
 .main-row{
 	float: right;
@@ -57,6 +58,70 @@ header{
 	color: white;
 	padding-bottom: 10px;
 }
+.content1
+{
+
+	min-height: 750px;	
+	min-width: 100%;
+	background: url(water.jpeg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 60px;
+	color: black;
+	padding-bottom: 10px;
+}
+
+
+.r{
+	position: absolute;
+}
+
+.textarea{
+	position: left;
+
+}
+
+.content2
+{
+	min-height: 750px;	
+	min-width: 100%;
+	background: url(tara.jpeg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 60px;
+	color: white;
+	padding-bottom: 10px;
+}
+
+
+.content3
+{
+	min-height: 750px;	
+	min-width: 100%;
+	background: url(ex.jpeg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 60px;
+	color: white;
+	padding-bottom: 10px;
+}
+
+.content4
+{
+	min-height: 750px;	
+	min-width: 100%;
+	background: url(cp.jpeg) no-repeat;
+	background-size: cover;
+	text-align: center;
+	padding-top: 50px;
+	font-size: 60px;
+	color: white;
+	padding-bottom: 10px;
+}
+
 
 footer{
 	text-align: center;
@@ -81,5 +146,41 @@ footer{
 .button a:hover{
 	background-color: darkorange;
 }
+
+.box
+{
+    display: table-cell;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+}
+.box2
+{
+	display: table-cell;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+}
+.box3
+{
+	display: table-cell;
+	position: top-right;
+	border:3px; 
+	border-style:solid; 
+	border-color:black; 
+	padding: 1em;
+	width: 20%;
+	height: 350px;
+	font-size: 23px;
+}
+
 
 
